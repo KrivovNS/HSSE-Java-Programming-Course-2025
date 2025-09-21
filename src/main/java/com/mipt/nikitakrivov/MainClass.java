@@ -15,7 +15,7 @@ public class MainClass {
 }
 
 interface Students {
-  void study();
+  Object study(Object object);
 }
 
 abstract class Workers {
